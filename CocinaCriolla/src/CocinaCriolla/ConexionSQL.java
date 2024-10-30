@@ -23,6 +23,7 @@ public class ConexionSQL {
     
     public static void main(String[] args) throws ClassNotFoundException, SQLException{
         
+        //jar sql server driver
         Class.forName("com.microsoft.sqlserver.jdbc.SQLServerDriver");
         String connectionURL= "jdbc:sqlserver://ALDAIR\\MSSQLSERVER2:1433;databaseName=SelfServiceDB;user=usuarioSQL;password=321;";
         Connection con=DriverManager.getConnection(connectionURL);
