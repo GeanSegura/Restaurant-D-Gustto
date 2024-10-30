@@ -185,7 +185,8 @@ public class Login extends javax.swing.JFrame {
     }//GEN-LAST:event_jtxt1KeyTyped
 
     private void jtxt1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jtxt1ActionPerformed
-        // TODO add your handling code here:
+        // TODO add your handling code here://
+        ///hola werlin<sd
     }//GEN-LAST:event_jtxt1ActionPerformed
 
     /**
